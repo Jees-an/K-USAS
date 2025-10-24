@@ -5,7 +5,7 @@
 ## 1. 개요
 
 **K-USAS**는 영국 Lancaster University의 **UCREL Semantic Analysis System (USAS)**을
-한국어에 맞게 확장·이식한 **어휘 온톨로지**입니다.
+한국어에 맞게 확장·이식한 **어휘집**입니다.
 
 본 어휘집은 단일어 사전과 다단어 표현 사전으로 구성되며,
 각 항목에 대해 다음 정보를 제공합니다.
@@ -13,6 +13,16 @@
 - 한국어-영어 대응쌍
 - USAS 의미 태그
 - 의미론 및 말뭉치언어학 기반 수작업 검수
+
+| 한국어 단어 | 영어 단어 | 의미 태그 | 의미 범주 |
+|------------|------------|------------------|-----------|
+| 정부 | government | G1.1c | GOVT. & THE PUBLIC DOMAIN |
+| 중국 | China | Z2 | NAMES & GRAMMATICAL WORDS |
+| 각각 | respectively | A6.1- | GENERAL & ABSTRACT TERMS |
+| 새롭다 | new | T3- | TIME |
+| 좋다 | good | A5.1+ G2.2+ A1.5.2+ | GENERAL & ABSTRACT TERMS |
+| 중요하다 | important | A11.1+ | GENERAL & ABSTRACT TERMS |
+| 설명하다 | explained | Q2.2/A7+ A2.2 | LINGUISTIC ACTIONS, STATES & PROCESSES |
 
 > ⚠️ 본 어휘집은 지속적인 업데이트를 통해 확장될 예정이며,
 > 일부 항목의 의미 태그는 향후 검수 과정에서 변경될 수 있습니다.
@@ -28,12 +38,11 @@
 
 > **K-USAS Lexicon ver. 1.0** (2025-10-24)
 
-## 3. K-USAS 구축의 주요 일정
+## 3. K-USAS 구축 주요 일정
 | 일시 | 내용 |
 |------|------|
 | **2023년 07월 03일** | Paul Rayson 교수 연구 팀과 공동 연구 협의 |
 | **2023년 09월 20일** | 킥오프 미팅 |
-| **2023년 10월–12월** | 시스템 구축 논의 |
 | **2024년 01월–06월** | K-USAS Lexicon 1차 시범 구축(6,000여 개 항목) 및 의미 주석 매핑 |
 | **2024년 07월–12월** | K-USAS Lexicon 2차 시범 구축(4,000여 개 항목) 및 의미 주석 매핑 |
 | **2025년 07월** | Corpus Linguistics 2025 (Birmingham Univ) 참가 및 중간 점검 회의 |
