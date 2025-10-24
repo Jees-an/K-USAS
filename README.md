@@ -38,9 +38,9 @@
 | 중국 | China | Z2 | NAMES & GRAMMATICAL WORDS |
 | 각각 | respectively | A6.1- | GENERAL & ABSTRACT TERMS |
 | 새롭다 | new | T3- | TIME |
-| 좋다 | good | A5.1+ G2.2+ A1.5.2+ | GENERAL & ABSTRACT TERMS |
+| 좋다 | good | A5.1+/G2.2+/A1.5.2+ | GENERAL & ABSTRACT TERMS |
 | 중요하다 | important | A11.1+ | GENERAL & ABSTRACT TERMS |
-| 설명하다 | explain | Q2.2/A7+ A2.2 | LINGUISTIC ACTIONS, STATES & PROCESSES |
+| 설명하다 | explain | Q2.2/A7+/A2.2 | LINGUISTIC ACTIONS, STATES & PROCESSES |
 
 > ⚠️ 본 어휘집은 지속적인 업데이트를 통해 확장될 예정이며, 일부 항목의 의미 태그는 향후 검수 과정에서 변경될 수 있습니다.
 
@@ -50,11 +50,11 @@
 
 | 일시 | 내용 |
 |------|------|
-| 2023년 7월 3일 | Paul Rayson 교수 연구 팀과 공동 연구 협의 |
-| 2023년 9월 20일 | 킥오프 미팅 |
-| 2024년 1월–6월 | K-USAS Lexicon 1차 시범 구축 (6,000여 개 항목) 및 의미 주석 매핑 |
-| 2024년 7월–12월 | K-USAS Lexicon 2차 시범 구축 (4,000여 개 항목) 및 의미 주석 매핑 |
-| 2025년 7월 1일 | *Corpus Linguistics 2025* (Birmingham Univ) 참가 및 중간 점검 회의 |
+| 2023년 07월 03일 | Paul Rayson 교수 연구 팀과 공동 연구 협의 |
+| 2023년 09월 20일 | 킥오프 미팅 |
+| 2024년 01월~06월 | K-USAS Lexicon 1차 시범 구축 (6,000여 개 항목) 및 의미 주석 매핑 |
+| 2024년 07월~12월 | K-USAS Lexicon 2차 시범 구축 (4,000여 개 항목) 및 의미 주석 매핑 |
+| 2025년 07월 01일 | *Corpus Linguistics 2025* (Birmingham Univ) 참가 및 중간 점검 회의 |
 | 2025년 10월 24일 | **K-USAS Lexicon ver. 1.0 공개** |
 | 2025년 10월~현재 | **K-USAS 전체 파이프라인 설계 진행 중** |
 
