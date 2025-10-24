@@ -4,10 +4,10 @@
 
 ## 1. 개요
 
-**K-USAS**는 영국 **Lancaster University**의 **UCREL Semantic Analysis System (USAS)**을␣␣  
+**K-USAS**는 영국 Lancaster University의 **UCREL Semantic Analysis System (USAS)**<!-- -->을  
 한국어의 언어 유형론적 특성에 맞게 확장·이식한 의미 분석 시스템입니다.
 
-본 어휘집은 **단일어 사전**과 **다단어 표현 사전**으로 구성되며,  
+본 어휘집은 **단일어 사전**과 **다단어 표현(MWE) 사전**으로 구성되며,  
 각 항목은 다음 정보를 포함합니다.
 
 - 한국어-영어 대응쌍  
