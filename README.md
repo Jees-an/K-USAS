@@ -26,8 +26,7 @@
 | **MWE** | 24,356 |
 | **합계** | **47,787** |
 
-> 📘 **K-USAS Lexicon ver. 1.0**  
-> 🗓️ 공개일: **2025-10-24**
+> **K-USAS Lexicon ver. 1.0** (2025-10-24)
 
 ## 3. K-USAS 구축의 주요 일정
 | 일시 | 내용 |
@@ -42,8 +41,8 @@
 
 ## 4. 참고문헌
 
-- 남길임·안진산·송현주. (2025). 「K-USAS 어휘집 구축을 위한 삼각측량 방법론 연구」. (*forthcoming*).
-- [박민준(2024), 「텍스트 의미 분석 시스템의 구현과 활용」, 인문과학연구 38호.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003053428).
+- 남길임·안진산·송현주. (2025). 「K-USAS 어휘집 구축을 위한 삼각측량 방법론 연구」. (*forthcoming*)
+- [박민준(2024), 「텍스트 의미 분석 시스템의 구현과 활용」, 인문과학연구 38호.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003053428)
 
 ---
 
