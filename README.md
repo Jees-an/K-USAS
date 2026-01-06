@@ -62,8 +62,8 @@
 
 ## 5. 참고문헌
 
-- 남길임·안진산·송현주 (2025). 「**K-USAS 어휘집 구축을 위한 삼각측량 방법론 연구**」 (*forthcoming*)  
-- [박민준 (2024), 「텍스트 의미 분석 시스템의 구현과 활용」, *인문과학연구* 38호.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003053428)
+- [남길임·안진산·송현주 (2025). 「**K-USAS 어휘집 구축을 위한 삼각측량 방법론 연구-말뭉치, 거대언어모델, 전문가 분석을 중심으로-**」, 한국어 의미학 90.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003291143)
+- [박민준 (2024), 「텍스트 의미 분석 시스템의 구현과 활용」, 인문과학연구 38.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003053428)
 
 ---
 
